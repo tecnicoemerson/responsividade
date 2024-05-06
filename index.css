@@ -66,8 +66,8 @@ footer{
     }
 
     button{
-        width: 19vw;
-        height: 4vh;
+        width: 90%;
+        height: 45px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -79,7 +79,6 @@ footer{
 
     section{
         width: 95%;
-        height: 30vh;
         margin: 1%;
         padding: 3%;
     }
